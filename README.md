@@ -1,5 +1,5 @@
 # Moon Rover Prototype
-![battlebot](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/moonrover1.jpg)
+![moonrover](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/moonrover1.jpg)
 Welcome to the MoonRover project! This is a versatile rover designed for lunar exploration and data collection. 
 It's powered by two hoverboard motors, equipped with a spinning blade for obstacle removal, a preflashed motherboard for efficient control, a meteorological station for environmental data, and a camera for capturing stunning lunar images.
 
@@ -19,7 +19,6 @@ This data is essential for understanding lunar environmental conditions.
 A high-resolution camera is installed on the rover for capturing images and videos of the lunar landscape.
 The camera can be controlled remotely to capture stunning lunar vistas.
 
-
 ### Hardware Components
 2 Hoverboard Motors
 Spinning Blade Mechanism
@@ -31,6 +30,13 @@ Chassis and Wheels
 Communication Antenna
 Please refer to the assembly instructions for detailed information on how to put together the rover using these components.
 
+
+### The meteorological station
+![meterologicalstation](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/meteorologicalstation.jpg)
+
+## The obstacle remover machanism
+![mechanism](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/mechanism.jpg)
+
 ### Software
 The software for the MoonRover includes:
 
@@ -38,3 +44,5 @@ The software for the MoonRover includes:
 Captures and logs humidity and temperature data from the meteorological station.
 #### Communication Interface: Facilitates communication with a 2.4 GHz Remote Control
 Detailed software installation and usage instructions can be found in the project's software repository.
+#### Obstacle destroyer:
+A powerfull metal obstacle destroyer
