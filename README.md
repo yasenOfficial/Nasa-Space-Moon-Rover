@@ -34,7 +34,7 @@ Please refer to the assembly instructions for detailed information on how to put
 ### The meteorological station
 ### ![meterologicalstation](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/meteorologicalstation.jpg)
 
-### The obstacle remover machanism
+### The obstacle remover mechanism
 ### ![mechanism](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/mechanism.jpg)
 
 ## Software
