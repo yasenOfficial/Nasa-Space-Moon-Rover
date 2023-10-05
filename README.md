@@ -37,7 +37,7 @@ Please refer to the assembly instructions for detailed information on how to put
 ### The obstacle remover machanism
 ### ![mechanism](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/mechanism.jpg)
 
-### Software
+## Software
 The software for the MoonRover includes:
 
 #### Meteorological Data Logging: 
