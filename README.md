@@ -32,10 +32,10 @@ Please refer to the assembly instructions for detailed information on how to put
 
 
 ### The meteorological station
-![meterologicalstation](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/meteorologicalstation.jpg)
+### ![meterologicalstation](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/meteorologicalstation.jpg)
 
-## The obstacle remover machanism
-![mechanism](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/mechanism.jpg)
+### The obstacle remover machanism
+### ![mechanism](https://github.com/yasenOfficial/Nasa-Space-App/blob/main/images/mechanism.jpg)
 
 ### Software
 The software for the MoonRover includes:
