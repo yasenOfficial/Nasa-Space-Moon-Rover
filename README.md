@@ -21,7 +21,7 @@ The camera can be controlled remotely to capture stunning lunar vistas.
 
 ### Hardware Components
 2 Hoverboard Motors
-Spinning Blade Mechanism
+Spinning Blade Mechanism - obstacle destroyer 
 Preflashed Motherboard (with embedded microcontroller)
 Meteorological Sensors
 High-Resolution Camera
@@ -44,5 +44,4 @@ The software for the MoonRover includes:
 Captures and logs humidity and temperature data from the meteorological station.
 #### Communication Interface: Facilitates communication with a 2.4 GHz Remote Control
 Detailed software installation and usage instructions can be found in the project's software repository.
-#### Obstacle destroyer:
-A powerfull metal obstacle destroyer
+
